@@ -10,6 +10,15 @@ clearfix:after{
   clear: both;
 }
 
+.float-left{
+  float: left;
+}
+
 body{
   font-family: 'Roboto', sans-serif;
+}
+
+header {
+  height: 550px;
+  background-color: #0C325A;
 }
