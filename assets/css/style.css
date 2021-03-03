@@ -175,7 +175,7 @@ nav {
   width: 30%;
 }
 
-.col img{
+.col .col-img{
   max-width: 30%;
   margin-bottom: 20px;
 }
@@ -187,10 +187,16 @@ nav {
 .col hr{
   width: 30%;
   margin: 20px auto;
-  color: grey;
+  border: 1px solid grey;
 }
 
 .col p{
   color: grey;
 }
 
+#computer{
+  width: 100%;
+  margin-top: 22px;
+}
+
+/* terza section */
