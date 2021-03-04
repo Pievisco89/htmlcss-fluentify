@@ -152,6 +152,7 @@ nav {
 } */
 
 .col{
+  position: relative;
   width: 100%;
   padding: 0 10%;
   margin-top: 30px;
@@ -199,4 +200,17 @@ nav {
   margin-top: 22px;
 }
 
+.orizzontale{
+
+width: 100%;
+}
 /* terza section */
+.grafico{
+  margin-top: 30%;
+  border-top: 1px solid rgb(204, 201, 201);
+}
+
+.montagna{
+  padding: 5% 10%;
+}
+
