@@ -134,7 +134,7 @@ nav {
   padding-top: 20px;
   background-color: rgb(207, 204, 204);
   text-align: center;
-  font-size: 15px;
+  font-size: 110%;
 }
 
 .main-container h1{
@@ -185,7 +185,7 @@ nav {
 
 .col hr{
   width: 25%;
-  margin: 26px auto;
+  margin: 25px auto;
   border: 1px solid grey;
 }
 
@@ -197,10 +197,6 @@ nav {
 .col p{
   color: grey;
 }
-
-/* #computer{
-  width: 100%;
-} */
 
 /* terza section */
 .grafico{
@@ -218,7 +214,7 @@ nav {
 }
 
 .grafico-text h3{
-  font-size: 30px;
+  font-size: 200%;
   line-height: 38px;
   padding-bottom: 20px;
 }
