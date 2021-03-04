@@ -256,3 +256,17 @@ i{
   padding: 10px;
   margin-left: 2%;
 }
+
+.help{  
+  position: fixed;
+  bottom: 0;
+  right: 25%;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  font-size: 10px;
+  color: white;
+  background-color: #7CBB04;
+  border-radius: 5px 5px 0 0;
+}
