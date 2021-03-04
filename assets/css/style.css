@@ -234,7 +234,7 @@ width: 100%;
   display: inline-block;
   padding: 2% 10%;
   width: 100%;
-  height: 80px;
+  /* height: 80px; */
   background-color: rgb(207, 204, 204);
 }
 
@@ -256,5 +256,10 @@ footer .footer-text-right .selection{
 }
 
 i{
-  padding-left: 2%;
+  padding-left: 10%;
+}
+
+.button.green.footer-large{
+  padding: 10px;
+  margin-left: 2%;
 }
