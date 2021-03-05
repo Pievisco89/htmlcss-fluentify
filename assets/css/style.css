@@ -147,7 +147,7 @@ nav {
 
 /* seconda section */
 .col{
-  position: relative;
+ /*  position: relative; */
   width: 100%;
   padding: 0 10%;
   margin-top: 30px;
