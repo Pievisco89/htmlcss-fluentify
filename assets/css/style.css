@@ -155,21 +155,18 @@ nav {
 }
 
 .col-left{
-  float: left;
   width: 30%;
   height: 400px;
   margin-right: 5%;
 }
 
 .col-center{
-  float: left;
   width: 30%;
   height: 400px;
   margin-right: 5%;
 }
 
 .col-right{
-  float: left;
   height: 400px;
   width: 30%;
 }
